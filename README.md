@@ -1,5 +1,4 @@
-# Simple-interest-calculator-1
-# Simple Interest Calculator
+# Simple-interest-calculator
 
 A simple, beginner-friendly calculator to calculate Simple Interest.
 
